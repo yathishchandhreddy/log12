@@ -1,0 +1,6 @@
+{
+  "name": "Aether Log Insights",
+  "description": "AI-powered SRE log analysis platform for real-time error diagnostics, root cause analysis, and incident reporting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
